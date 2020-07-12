@@ -1,0 +1,8 @@
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\bin\Debug\netstandard2.0\FootballManagerApp3_1.Domain.deps.json
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\bin\Debug\netstandard2.0\FootballManagerApp3_1.Domain.dll
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\bin\Debug\netstandard2.0\FootballManagerApp3_1.Domain.pdb
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\obj\Debug\netstandard2.0\FootballManagerApp3_1.Domain.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\obj\Debug\netstandard2.0\FootballManagerApp3_1.Domain.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\obj\Debug\netstandard2.0\FootballManagerApp3_1.Domain.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\obj\Debug\netstandard2.0\FootballManagerApp3_1.Domain.dll
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Domain\obj\Debug\netstandard2.0\FootballManagerApp3_1.Domain.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Data\bin\Debug\netstandard2.0\FootballManagerApp3_1.Data.deps.json
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Data\bin\Debug\netstandard2.0\FootballManagerApp3_1.Data.dll
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Data\obj\Debug\netstandard2.0\FootballManagerApp3_1.Data.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Data\obj\Debug\netstandard2.0\FootballManagerApp3_1.Data.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\FootballManagerApp3_1\FootballManagerApp3_1.Data\obj\Debug\netstandard2.0\FootballManagerApp3_1.Data.AssemblyInfo.cs
