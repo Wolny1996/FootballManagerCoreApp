@@ -2407,30 +2407,30 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "FootballManagerApp3_1.Data/1.0.0": {
+      "FootballManager.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "FootballManagerApp3_1.Domain": "1.0.0",
+          "FootballManager.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.Extensions.Logging.Console": "3.1.5"
         },
         "compile": {
-          "bin/placeholder/FootballManagerApp3_1.Data.dll": {}
+          "bin/placeholder/FootballManager.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FootballManagerApp3_1.Data.dll": {}
+          "bin/placeholder/FootballManager.Data.dll": {}
         }
       },
-      "FootballManagerApp3_1.Domain/1.0.0": {
+      "FootballManager.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/FootballManagerApp3_1.Domain.dll": {}
+          "bin/placeholder/FootballManager.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/FootballManagerApp3_1.Domain.dll": {}
+          "bin/placeholder/FootballManager.Domain.dll": {}
         }
       }
     }
@@ -8001,21 +8001,21 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "FootballManagerApp3_1.Data/1.0.0": {
+    "FootballManager.Data/1.0.0": {
       "type": "project",
-      "path": "../FootballManagerApp3_1.Data/FootballManagerApp3_1.Data.csproj",
-      "msbuildProject": "../FootballManagerApp3_1.Data/FootballManagerApp3_1.Data.csproj"
+      "path": "../FootballManager.Data/FootballManager.Data.csproj",
+      "msbuildProject": "../FootballManager.Data/FootballManager.Data.csproj"
     },
-    "FootballManagerApp3_1.Domain/1.0.0": {
+    "FootballManager.Domain/1.0.0": {
       "type": "project",
-      "path": "../FootballManagerApp3_1.Domain/FootballManagerApp3_1.Domain.csproj",
-      "msbuildProject": "../FootballManagerApp3_1.Domain/FootballManagerApp3_1.Domain.csproj"
+      "path": "../FootballManager.Domain/FootballManager.Domain.csproj",
+      "msbuildProject": "../FootballManager.Domain/FootballManager.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "FootballManagerApp3_1.Data >= 1.0.0",
-      "FootballManagerApp3_1.Domain >= 1.0.0",
+      "FootballManager.Data >= 1.0.0",
+      "FootballManager.Domain >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.EntityFrameworkCore.InMemory >= 3.1.5",
@@ -8029,11 +8029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Mateusz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mateusz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8049,11 +8049,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\FootballManagerApp3_1.Data\\FootballManagerApp3_1.Data.csproj": {
-              "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\FootballManagerApp3_1.Data\\FootballManagerApp3_1.Data.csproj"
+            "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\FootballManager.Data\\FootballManager.Data.csproj": {
+              "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\FootballManager.Data\\FootballManager.Data.csproj"
             },
-            "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\FootballManagerApp3_1.Domain\\FootballManagerApp3_1.Domain.csproj": {
-              "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerApp3_1\\FootballManagerApp3_1.Domain\\FootballManagerApp3_1.Domain.csproj"
+            "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\FootballManager.Domain\\FootballManager.Domain.csproj": {
+              "projectPath": "C:\\Users\\Mateusz\\source\\repos\\FootballManagerCoreApp\\FootballManager.Domain\\FootballManager.Domain.csproj"
             }
           }
         }

@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Tests/1.0.0": {
         "dependencies": {
-          "FootballManagerApp3_1.Data": "1.0.0",
-          "FootballManagerApp3_1.Domain": "1.0.0",
+          "FootballManager.Data": "1.0.0",
+          "FootballManager.Domain": "1.0.0",
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.EntityFrameworkCore.InMemory": "3.1.5",
@@ -1645,20 +1645,20 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "FootballManagerApp3_1.Data/1.0.0": {
+      "FootballManager.Data/1.0.0": {
         "dependencies": {
-          "FootballManagerApp3_1.Domain": "1.0.0",
+          "FootballManager.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.Extensions.Logging.Console": "3.1.5"
         },
         "runtime": {
-          "FootballManagerApp3_1.Data.dll": {}
+          "FootballManager.Data.dll": {}
         }
       },
-      "FootballManagerApp3_1.Domain/1.0.0": {
+      "FootballManager.Domain/1.0.0": {
         "runtime": {
-          "FootballManagerApp3_1.Domain.dll": {}
+          "FootballManager.Domain.dll": {}
         }
       }
     }
@@ -2642,12 +2642,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "FootballManagerApp3_1.Data/1.0.0": {
+    "FootballManager.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "FootballManagerApp3_1.Domain/1.0.0": {
+    "FootballManager.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

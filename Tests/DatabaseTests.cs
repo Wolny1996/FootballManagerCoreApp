@@ -1,5 +1,5 @@
-using FootballManagerApp3_1.Data;
-using FootballManagerApp3_1.Domain;
+using FootballManager.Data;
+using FootballManager.Domain;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
 
